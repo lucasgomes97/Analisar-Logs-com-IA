@@ -1,0 +1,1 @@
+# Painel IA - Sistema de Diagnóstico com IA
